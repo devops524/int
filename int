@@ -7,7 +7,8 @@ About me - General Devops Engineer
             a. Creating solution design/ network and architecture diagrams to solution applications.  
             b. I work with application teams and understand the application and i create pipelines for infrastructure as code , build pipelines, release pipelines, pipelines for testing applications and doing automation etc. 
             c. From tools standpoint, i have experience with 
-              - on version control systems like git, Bitbucket, gitlabs. From the build automation tools, 
+              - on version control systems like git, Bitbucket, gitlabs. From the build automation tools,
+              - from infrastructure as a code perspective, i am very good at terraform creating infra on both AWS & Azure. i worked on modules as well. 
               - i worked with build tools like maven for java, ms build for .net, npm for angular and javascript etc. 
               - from CI/CD - i have experience with Jenkins/ Azure Devops / Code Pipeline. 
               - From Containers - I have experience with Docker image creation and working on kubernetes too.
