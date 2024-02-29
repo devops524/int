@@ -1,13 +1,22 @@
 About me - General Devops Engineer 
 
- - I am currently working as a Devops , Cloud & Automation Engineer 
- - I am responsible for onboarding applications in cloud and doing the CI/CD. 
- - I am from Cloud Engineering & Automation team. I am responsible for complete end to end automation on CI/CD, infrastructure as code , Cloud Solution design , migration & mordernization of the applications. 
- - Our Organization is multi cloud , we use both AWS & Azure. I am primarily responsible for 
-            a. Creating solution design/ network and architecture diagrams to solution applications.  
-            b. I work with application teams and understand the application and i create pipelines for infrastructure as code , build pipelines, release pipelines, pipelines for testing applications and doing automation etc. 
+ - I am currently working as a Devops & Cloud Automation Engineer.  
+ - I am from basically from Cloud Engineering & Automation team. 
+ - In my current role, I am responsible for Creating CI/CD Pipelines, writing infrastructure as code using terraform, responsible for migration & mordernization of the applications, work heavily on containerization using kubernetes. 
+ - I am currently working on a migrating couple of datacenters from On-Prem to Cloud for a Major client, In this process, i do work with the application team and create reference architecture in cloud and help to migrate or morderize the application with the cutting edge technology on the Cloud. 
+
+ - I have experience on different types of migration like Lift & Shift also called Re-hosting, Mordernizing the application called Re-shaping the applications. 
+
+ - Our Organization is multi cloud , We use both AWS & Azure Cloud and also have little presence on GCP as well. 
+
+ I am primarily responsible for 
+            a. Creating reference architecture diagrams and blueprints to hosts apps in cloud.  
+            Beyond this   
+
+            b. I create pipelines for infrastructure as code , build pipelines, release pipelines, deployment pipelines, pipeleins for creating docker images and pipelines for deploying applications in kubernetes. 
+
             c. From tools standpoint, i have experience with 
-              - on version control systems like git, Bitbucket, gitlabs. From the build automation tools,
+              - on version control systems like git, Bitbucket, gitlabs. 
               - from Cloud standpoint, my primary cloud is AWS and i am equially good in Azure as well. 
               - from infrastructure as a code perspective, i am very good at terraform creating infra on both AWS & Azure. i worked on modules as well. 
               - i worked with build tools like maven for java, ms build for .net, npm for angular and javascript etc. 
@@ -20,28 +29,22 @@ About me - General Devops Engineer
               - On Monitoring - i worked with Splunk, ELK, Datadog, Logic Monitor , prometheus, grafana. 
               - On Scripting - i have hands on shell scripting, powershell, python data structures. 
               - On Project Management i have worked with Jira, Confluence etc.  
-            
-- At this Point in our Organization, we are doing a Huge Migration of our Datacenters to Cloud. In this Process we are doing Lift & Shift Migrations and some of the things we are redesigining & Mordernizing applications with cutting edge technology of AWS or Azure. In this process i am responsible for Creating Migration approach and plan and execute as well.
-
-- I have hands on writing Docker files starting from scratch and archestrate Docker files on kubernetes Platforms like AKS, EKS. 
-    
-- I work very closely with Development teams and involve and help in all phases of SDLC Process, I involve from Design Phase to the Post Implementation, Automation & Support Phases as well. 
+                
+- I work very closely with Development teams and work hand in hand and help help in all phases of SDLC Process, I involve from Design Phase to the Post Implementation, Automation & Support Phases as well. 
          
 Overall this is about me at a High level, I will be open for any questions. 
 
 -----------------------------------------------------------
 AWS intro 
 
-AWS intro 
-
  - I am currently working as a Devops , Cloud & Automation Engineer 
  - I am responsible for Cloud Implementations, migrations, support and cloud security. 
  - In my current role, i primarily work on AWS Cloud, I am helping teamsnCreating solution design/ network and architecture diagrams to solution applications and also create landing zone in AWS 
- - I work on AWS S3, EC2, RDS, EKS, ECS, Lamdba, API Gateway, Dynamo db etc. 
- - from networking i am strong in VPC, security groups, nacls, nat gatewyas, route table , load balancers etc. 
+ - I work on AWS S3, EC2, RDS, EKS, ECS, Lamdba, API Gateway, Dynamo db. 
+ - from networking i am strong in VPC, security groups, nacls, nat gatewyas, route table , load balancers. 
  - i am also very good in CI, CD, I create pipelines for infrastructure as a code using terraform, i am very good at terraform creating infra in AWS. i worked on modules as well. 
  Apart from that, 
-              - i worked with build tools like maven for java, ms build for .net, npm for angular and javascript etc. 
+              - i worked with build tools like maven for java, ms build for .net, npm for angular and javascript. 
               - from CI/CD - i have experience with Jenkins/ Azure Devops / Code Pipeline. 
               - From Containers - I have experience with Docker image creation and working on kubernetes too.
               - From Automation side - i worked with Ansible.  
