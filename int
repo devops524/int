@@ -148,13 +148,20 @@ Intro-Azure
 
 I am currently working as a  Devops Engineer specalized in Azure Infrastructure & Azure Devops. I am currently helping teams doing Cloud implementations, cloud migrations , Cloud Support and Cloud Security. 
 
-i have hands on experience on Microsoft stack including Azure & Office 365.  I have hands on experience on Azure Devops and Azure . i have hands on experience in Configuring Azure Active Directory and creating subscriptions , crating management groups and also creating policies to have complete Governance on cloud. 
+i have hands on experience on Microsoft stack including Azure & Office 365. Apart from this, i have hands on experience in Configuring Azure Active Directory and creating Secure Landing zone and configuring account hierarchy through creating  management groups , subscriptions , resource groups using Automation using powershell, Azure CLI & terraform . 
 
+I also have experience creating policies to have complete Governance on cloud. 
+
+Apart from that 
 I have hands on experience in Azure Devops creating CI/CD pipelines for doing build automation , Release Automation, Creating pipelines for security scanning of code and creating pipelines for doing deployments. 
 
-I have hands on experience on Infrastructure side, creating and managing infrastructure and configure complete enterprise wise networking using virtual networks, subnets, network security groups, site to site vpn, point to site vpn etc.  In addition to that i have hands on experience on Azure Webapps, logic apps, api apps, function apps and Data factory and data bricks. 
+I have hands on experience on Infrastructure side, creating and managing infrastructure and configure complex Network topoligies like Hub and spoke, configuring networking using Azure virtual wan, virtual hub, virtual networks, subnets, network security groups, site to site vpn, point to site vpn etc.  In addition to that i have hands on experience on Azure Webapps, logic apps, api apps, function apps and Data factory and data bricks. 
+
+From the database standpoint, i have experience in Azure SQL, Synapse as well. 
 
 I work very closely with development, qa, dba teams to onboard various applications to the Azure cloud. In our organization, largely we are using analytics and we are building Data lake in Azure using Webapps, SQL Synapse, Data factory, Datalake, Power BI, Azure API Management and Analysis services. 
+
+I am also good with powershell, Azure CLI , troubleshooting as well. 
 
 I am helping teams doing automation on creating infrastructure using terraform and Azure ARM Templates. Beyond that i also have experience writing powershell as well. 
 
@@ -162,8 +169,7 @@ In my current role, we are doing migration of couple of data centers to the Azur
 
 In Addition to that i have experience on Azure monitor, Azure Defender for cloud which was formerly called Security center and also Microsoft Sentinel as well. 
 
-Overall i am completly a hands on guy and passioante about Cloud Platform and its underlying technology and automation. 
-
+Overall i am completly a hands on guy and passioante about Cloud Platform and its underlying technology and automation.
 
 Short-intro-Mware
 -----------------
