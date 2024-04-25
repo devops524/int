@@ -1,2 +1,27 @@
 **CLoud Security Profile 
 
+Hi I am currently working as a Cloud Security architect specalized in DevSecOps, Cloud Security & Digital business transformation. I am currently helping teams acheving multi-cloud strategy and creating secure landing zone following best well architectured principles. 
+
+In my current role. 
+  1. I create reference architecture to create secure landing zone on AWS that has roboust security controls and multi-account hierarchial model containing DevSecOps, Network isolation, IAM etc. 
+  
+  2. I help creating IAM Roles and polices and integrate with Clients IDP Provider for both authentication and authorization. I also help implement both RBAC & ABAC and work on identity monitoring. 
+
+  3. From Networking standpoint, i do work on hub and spoke networking model leveraging multiple services like Virtual Networks, subnets, security groups, route tables, Next Gen firewalls(transit gateways) etc. 
+
+  Beyond this, I also have experience in AWS Sheild Antiddos and also AWS WAF, CDN.  
+  
+  4. From Posture Management & Compliance, i do have hands on experience on AWS Security hub which is CSPM(Cloud Security Posture Management) and have experience in Guard duty which is threat protection in AWS. Beyond this i also have experience on Prisma cloud, orca security (recent as well)
+  
+  5. From cyber defense and soc, i do have experience on SIEM tools like Qradar, Splunk, Azure Sentinel and i help creating playbooks and responsible for handling soc and digital forensics. 
+
+  6. From endpoint security, i do have hands on experience on TVM tools like Tenable and EDR tools like crowdstrike and beyond this , i do have experience on installing mandatory agents and hardening of windows and linux machines and implementing automated image management (Golden AMI) & Patch management using AWS Systems Manager. 
+
+  7. from Data security standpoint, i have experience in encryption @ rest and transit, encryption, encoding, hasing, masking & tokenizing data. I have experience enabling security controls in different phases of Data lifecycle. 
+
+  8. from container security, i do have hands on experience in implementing cloud native container security solutions and integrating with CI/CD Pipleines to scan kubernetes deployment yaml files and also do security monitoring of our applications using prometheus and grafana. 
+
+  Beyond this i do have hands on experience on DevSecOps and integrating SAST & DAST tools to the CI/CD tools like jenkins, AWS DevOps stack like Code pipeline, code commit and code build. 
+
+
+  Overall this is about me at a high level, i will be open for any questions. 
