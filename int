@@ -119,8 +119,32 @@ From technology stack,
 
 Overall this is about me at high level, i will be open for any questions. 
 
+--- GCP intro 
 
+- I am currently working as a Devops , Cloud & Automation Engineer 
+ - I am responsible for Cloud Implementations, migrations, support and cloud security. 
+ - In my current role, i primarily work on GCP Cloud, I am helping teams Creating reference architectures, network and dataflow diagrams etc to solution applications and also create landing zone in AWS 
+ - I work on GCP services, compute, storage, networking, database , app engine, stack driver, command center and Kubernetes services. 
+ - from networking i am strong in VPC, Shared VPC, security groups, access control lists, implementing complex network topologies like Hub and spoke networking etc.  
+ - i am also very good in CI, CD, I create pipelines for infrastructure as a code using terraform, i am very good at terraform creating infra in AWS. i worked on modules as well. 
+ Apart from that, 
+              - i worked with build tools like maven for java, ms build for .net, npm for angular and javascript. 
+              - from CI/CD - i have experience with Jenkins/ Azure Devops / Code Pipeline. 
+              - From Containers - I have experience with Docker image creation and working on kubernetes too.
+              - From Automation side - i worked with Ansible.  
+              - From security standpoint, 
+                - i worked on Checkmarx, Sonarqube for static code analysis. 
+                - i worked on black duck go for the software composition analysis. 
+              - On Monitoring - i worked with Splunk, ELK, Datadog, Logic Monitor , prometheus, grafana. 
+              - On Scripting - i have hands on shell scripting, powershell, python data structures. 
+            
+- At this Point in our Organization, we are doing a Huge Migration of our Datacenters to Cloud. In this Process we are doing Lift & Shift Migrations and some of the things we are redesigining & Mordernizing applications with cutting edge technology of GCP. In this process i am responsible for Creating Migration approach and plan and execute as well.
 
+- I have hands on writing Docker files starting from scratch and archestrate Docker files on kubernetes Platforms like AKS, EKS. 
+    
+- I work very closely with Development teams and involve and help in all phases of SDLC Process, I involve from Design Phase to the Post Implementation, Automation & Support Phases as well. 
+         
+Overall this is about me at a High level, I will be open for any questions. 
 
 
 
