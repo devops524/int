@@ -7,20 +7,19 @@ About me - General Devops Engineer
 
  - I have experience on different types of migration like Lift & Shift also called Re-hosting, Mordernizing the application called Re-shaping the applications. 
 
- - Our Organization is multi cloud , We use both AWS & Azure Cloud and also have little presence on GCP as well. 
+ - Our Organization is multi cloud , We use both AWS & GCP Cloud and also have little presence on GCP as well. 
 
  I am primarily responsible for 
             a. Creating reference architecture diagrams and blueprints to hosts apps in cloud.  
             Beyond this   
 
             b. I create pipelines for infrastructure as code , build pipelines, release pipelines, deployment pipelines, pipeleins for creating docker images and pipelines for deploying applications in kubernetes. 
-
             c. From tools standpoint, i have experience with 
               - on version control systems like git, Bitbucket, gitlabs. 
               - from Cloud standpoint, my primary cloud is AWS and i am equially good in Azure as well. 
-              - from infrastructure as a code perspective, i am very good at terraform creating infra on both AWS & Azure. i worked on modules as well. 
+              - from infrastructure as a code perspective, i am very good at terraform creating infra on GCP. i worked on modules as well. 
               - i worked with build tools like maven for java, ms build for .net, npm for angular and javascript etc. 
-              - from CI/CD - i have experience with Jenkins/ Azure Devops / Code Pipeline. 
+              - from CI/CD - i have experience with Jenkins, bit bucket, gitlabs, argocd, helm charts etc. 
               - From Containers - I have experience with Docker image creation and working on kubernetes too.
               - From Automation side - i worked with Ansible.  
               - From security standpoint, 
